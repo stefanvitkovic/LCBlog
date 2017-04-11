@@ -15,7 +15,9 @@ class CategoryController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-
+    public function test(){
+        
+    }
     /**
      * Show the form for creating a new resource.
      *
