@@ -14,6 +14,10 @@ use Auth;
 
 class ArticleController extends Controller
 {
+    public function test()
+    {
+        
+    }
     /**
      * Display a listing of the resource.
      *
